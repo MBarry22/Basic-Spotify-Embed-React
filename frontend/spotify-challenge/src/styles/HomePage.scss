@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    
+
+}
+.yawny-songs{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding-bottom: 10%;
+    
+}
+.stompy-songs{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding-bottom: 10%;
+}
+.zaney-songs{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+    
+}
+
+
+
